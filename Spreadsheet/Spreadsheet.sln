@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaEvaluator", "FormulaEvaluator\FormulaEvaluator.csproj", "{3EE14934-0B07-4C32-8F40-4CE1CCCF5A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE14934-0B07-4C32-8F40-4CE1CCCF5A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE14934-0B07-4C32-8F40-4CE1CCCF5A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE14934-0B07-4C32-8F40-4CE1CCCF5A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE14934-0B07-4C32-8F40-4CE1CCCF5A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096A969C-1C3A-4D76-BFF9-ACA368676B27}
+	EndGlobalSection
+EndGlobal
